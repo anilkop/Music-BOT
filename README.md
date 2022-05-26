@@ -3,20 +3,20 @@
 <h4 align="center">Alexa Is A Powerful, Smart And Simple Music Bot<br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/jankarikiduniya/Telegram-Music-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/anilkop/Telegram-Music-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
 <p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/b92ed11ca9259ec96aaee.jpg" width="400"></a></p>
 
 <br>
-    <img src="https://img.shields.io/github/license/jankarikiduniya/Telegram-Music-BOT?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/jankarikiduniya/Telegram-Music-BOT?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/jankarikiduniya/Telegram-Music-BOT?style=for-the-badge" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/forks/jankarikiduniya/Telegram-Music-BOT?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/stars/jankarikiduniya/Telegram-Music-BOT?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/watchers/jankarikiduniya/Telegram-Music-BOT?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/commit-activity/w/jankarikiduniya/Telegram-Music-BOT?style=for-the-badge" alt="Commit Activity">
-    <img src="https://img.shields.io/github/issues/jankarikiduniya/Telegram-Music-BOT?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/anilkop/Telegram-Music-BOT?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/anilkop/Telegram-Music-BOT?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/anilkop/Telegram-Music-BOT?style=for-the-badge" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/forks/anilkop/Telegram-Music-BOT?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/stars/anilkop/Telegram-Music-BOT?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/watchers/anilkop/Telegram-Music-BOT?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/commit-activity/w/anilkop/Telegram-Music-BOT?style=for-the-badge" alt="Commit Activity">
+    <img src="https://img.shields.io/github/issues/anilkop/Telegram-Music-BOT?style=for-the-badge" alt="Issues">
 </p>
 
 ## ✨ <a name="features"></a>Features
@@ -46,7 +46,7 @@ Response your commands with cool thumbnails on the chat.
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anilkop/Music-BOT)
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/jankarikiduniya/Music-BOT&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/anilkop/Music-BOT&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
 
 ## 📄 <a name="commands"></a>Commands
 
